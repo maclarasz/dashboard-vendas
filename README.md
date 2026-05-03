@@ -31,5 +31,6 @@ metas e desempenho por categoria de produto.
 ## 💼 Sobre
 
 Projeto desenvolvido como parte do portfólio freelance.
+
 Desenvolvido por Maria Clara Souza
 github.com/maclarasz
